@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a hardworking highschool student with an inate interest in programming and computers
+I'm a hardworking highschool student with an inate interest in programming and computers \n
 Some project ideas I have so far:
   - 2D Physics engine (idk how, but ill make it)
   - Platformer game using the engine
